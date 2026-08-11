@@ -138,7 +138,10 @@ It will look like:
 ```text
 https://your-app-name.azurewebsites.net
 ```
+## License
+MIT License
 
-## Important
 
-Do not upload passwords, MongoDB credentials, or `.env` files to GitHub.
+## Author
+
+VICTOR GICOBI
